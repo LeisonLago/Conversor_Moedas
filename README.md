@@ -1,5 +1,4 @@
 Conversor Moedas by Leison Lago
-Imagem de um gato
 
 O desafio do Conversor de Moedas tem o objetivo de me ajudar a praticar JAVA. 
 O conversor consiste em ajudar o usuário a converter algumas moedas em dólar e vice versa.
